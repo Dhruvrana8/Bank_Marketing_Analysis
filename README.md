@@ -28,8 +28,10 @@ Build and evaluate predictive models to help improve marketing strategies.
 
 ## Project Structure
 
+```
 ├── data/ # Dataset files
 ├── notebooks/ # Jupyter notebooks for analysis and model building
 ├── src/ # Source code for data processing and modeling
 ├── README.md # Project overview and setup
 └── requirements.txt # Required Python libraries
+```
